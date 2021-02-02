@@ -1,0 +1,90 @@
+.bg {
+    background-image: url("/images/abstract-blur-supermarket\ 1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.geral {
+    padding: 30px;
+}
+
+.inicio {
+
+
+    .logo {}
+
+    img {
+
+        padding-right: 60px;
+        padding-left: 89px;
+        padding-top: 192px;
+        width: 931px;
+        height: 614px;
+    }
+}
+
+
+
+.botoes {
+
+    .escolha {
+
+        padding: 960px 0 144px 417px;
+
+        span {
+            position: absolute;
+            width: 519px;
+            height: 162.24px;
+            left: 144px;
+            top: 960px;
+
+            font-family: Poppins;
+            font-style: normal;
+            font-weight: 800;
+            font-size: 89.4078px;
+            line-height: 86%;
+
+            letter-spacing: -0.035em;
+
+            color: #441587;
+        }
+    }
+
+    .seletor {
+        position: absolute;
+        left: 192px;
+        top: 1234px;
+
+
+        button {
+            justify-content: space-between;
+            width: 471px;
+            height: 100px;
+            background: white !important;
+            color: #441587 !important;
+            font-weight: 500;
+            letter-spacing: -0.035em;
+            font-size: 45px;
+            line-height: 86%;
+            font-family: Poppins;
+            font-style: normal;
+            box-shadow: 0px 0px 55px rgba (196, 193, 193, 0 .65);
+        }
+        a{
+            color: black !important;
+            font-weight: 500;
+            letter-spacing: -0.035em;
+            font-size: 45px;
+            line-height: 86%;
+            font-family: Poppins;
+            font-style: normal;
+            
+        }
+
+    }
+
+
+
+}

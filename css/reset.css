@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 100%;
+  color: #555;
+}
+
+body {
+  color: var(--brand-color-alt);
+  font-size: 16px;
+  line-height: 1.7;
+}
+/*# sourceMappingURL=reset.css.map */

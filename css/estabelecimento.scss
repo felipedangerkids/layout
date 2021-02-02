@@ -1,0 +1,98 @@
+.bg {
+    background-image: url("/images/abstract-blur-supermarket\ 1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.geral {
+    padding: 30px;
+}
+
+.inicio {
+    .localidade {
+        padding-top: 14px;
+
+        span {
+
+            font-style: normal;
+            font-weight: 900;
+            line-height: 118.5%;
+            letter-spacing: -0.035em;
+            color: #441587;
+            font-size: 20px;
+        }
+
+
+    }
+
+    .localizacao {
+
+        span {
+            font-style: normal;
+            font-weight: 500;
+            line-height: 118.5%;
+            letter-spacing: -0.035em;
+            color: #441587;
+            font-size: 20px;
+        }
+
+        .fa-map-marker-alt:before {
+            color: #441587;
+        }
+
+    }
+
+}
+
+.segundo {
+    padding-top: 10px;
+
+    .entrar {
+        background: #441587;
+        border: none;
+        padding: 5px;
+        color: white;
+        max-width: 100%;
+        width: 118px;
+        border-radius: 5px;
+    }
+
+    .escolha {
+        padding-top: 20px;
+
+        span {
+            font-weight: 800;
+            font-size: 24px;
+            line-height: 118.5%;
+            color: #441688;
+        }
+    }
+
+    .filtros {
+
+        padding-top: 10px;
+
+        .estab {
+            width: 180px;
+            height: 30px;
+            border: none;
+            color: #441688;
+        }
+
+        .fil {
+            width: 60px;
+            height: 30px;
+            border: none;
+            color: #441688;
+        }
+
+    }
+}
+.mercado-img{
+    max-width: 50%;
+    img{
+        width: 100%;
+    }
+}
